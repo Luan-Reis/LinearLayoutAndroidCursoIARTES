@@ -3,4 +3,8 @@
     <string name="clique_aqui">Clique aqui!</string>
     <string name="user">Usuário</string>
     <string name="texto_2">Meu texto!</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
 </resources>
